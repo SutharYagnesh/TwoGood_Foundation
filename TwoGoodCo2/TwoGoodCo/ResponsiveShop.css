@@ -1,0 +1,44 @@
+@media (max-width: 850px) {
+  .spage-1 .hero {
+    margin-bottom: -10vw;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10vw;
+  }
+  .spage-1 .hero .Heading-2 {
+    width: 90%;
+  }
+  .spage-1 .hero h1 {
+    font-size: 17vw;
+  }
+  .spage-1 .hero p {
+    font-size: 2.5vw;
+  }
+  .spage-3 .productPhoto .item {
+    width: 40%;
+  }
+  .spage-3 .productPhoto .caption p {
+    font-size: 1.4vw;
+  }
+}
+@media (max-width: 420px) {
+  .spage-1 .hero {
+    margin-bottom: -40vw;
+    gap: 15vw;
+  }
+  .spage-1 .hero .Heading-2 {
+    width: 100%;
+  }
+  .spage-1 .hero h1 {
+    font-size: 20vw;
+  }
+  .spage-1 .hero p {
+    font-size: 5vw;
+  }
+  .spage-3 .productPhoto .item {
+    width: 100%;
+  }
+  .spage-3 .productPhoto .caption p {
+    font-size: 3vw;
+  }
+}

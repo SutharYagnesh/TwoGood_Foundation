@@ -1,0 +1,38 @@
+@media (max-width: 850px) {
+  .nav-part2 .links {
+    display: none;
+  }
+  .footer .Fmain .center {
+    display: none;
+  }
+  .footer .Fmain {
+    gap: 30vw;
+    justify-content: flex-start;
+  }
+  .Fmain .left {
+    gap: 0.8vw;
+    justify-self: flex-start;
+    align-self: flex-start;
+  }
+  .Fmain .right {
+    gap: 0.8vw;
+    text-align: left;
+  }
+  .Fmain h3 {
+    font-size: 16px;
+  }
+  .footer .Flast {
+    gap: 1px;
+    margin-top: 8vw;
+    justify-content: space-between;
+  }
+  .Fspecial {
+    font-size: 13px;
+    letter-spacing: -0.1vw;
+  }
+  .FSlast p {
+    width: 100%;
+    text-align: left;
+    font-size: 16px;
+  }
+}

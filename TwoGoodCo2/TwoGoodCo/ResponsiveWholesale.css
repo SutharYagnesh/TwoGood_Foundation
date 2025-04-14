@@ -1,0 +1,369 @@
+@media (max-width: 499px){
+  .wholesale:not(:first-child){
+    width: 100%;
+  }
+
+  .nav-part2 .links{
+    display: none;
+  }
+
+  .wpage-1 .w-tag h1{
+    font-size: 10vw;
+    line-height: 10vw;
+  }
+
+  .w-page-2 .w-product-about{
+    display: flex;
+  }
+
+  .w-page-2 .w-product-about div .w-product-head{
+    margin-top: 28vw;
+  }
+
+  .w-page-2 .w-product-about div .w-product-head h1{
+    font-size: 8vw;
+
+  }
+
+  .w-page-2 .w-product-about div .w-product-des{
+    width: 100%;
+  }
+
+  .w-page-2 .w-product-about div .w-product-des p{
+    margin-top: 4vw;
+    font-size: 4vw;
+  }
+
+  .w-page-2 .w-product-about .w-product-symbol img{
+    margin-top: 8vw;
+    width: 150%;
+    object-fit: cover;
+  }
+
+  .w-page-2 .w-product-about .div img{
+    margin-top: 8vw;
+    width: 140%;
+    object-fit: cover;
+    position: relative;
+    right: 15vw;
+  }
+
+  .wholesale .w-page-2 .header{
+    margin: 80px 10px;
+  }
+
+  .wholesale .w-page-2 .header hr{
+    border: 1px solid black;
+  }
+
+  .wholesale .w-page-2 .header .text{
+    font-size: 3vw;
+  }
+
+  .w-page-3 .w-soaps .w-soaps-h1 h1{
+    font-size: 8vw;
+    line-height: 8vw;
+  }
+
+  .w-page-3 .w-soaps div>h6{
+    font-size: 3vw;
+    margin-top: 3vw;
+  }
+
+  .w-page-3 .w-soaps div p{
+    font-size: 2.8vw;
+    margin-top: 1vw;
+  }
+
+  .w-page-3 .w-soaps .w-part .part1{
+    width: 60vw;
+    height: 10vw;
+    padding-top: 3vw;
+    margin-top: 7vw;
+  }
+
+  .w-page-3 .w-soaps .w-part .part2{
+    width: 75vw;
+    height: 15vw;
+    padding-top: 3vw;
+    margin-top: 7vw;
+  }
+
+  .w-page-3 .w-soaps .w-part .part3{
+    width: 95vw;
+    height: 20vw;
+    padding-top:5vw;
+    margin-top: 7vw;
+  }
+
+  .w-page-3 hr{
+    border: 1px solid black;
+    margin-top: 80px;
+  }
+
+  .w-page-4 .bodyPhoto{
+    flex-direction: column;
+  }
+
+  .w-page-4 .bodyPhoto>.ele{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 50%;
+    margin: 20%;
+    left: 2vw;  
+  }
+
+  .w-page-4 .bodyPhoto>.ele:last-child{
+    display: none;
+  }
+
+  .w-page-4 .bodyPhoto>.ele img{
+    position: absolute;
+  }
+
+  .w-page-2-2{
+    position: relative;
+    top: 40vw;
+  }
+
+  .w-page-2-2 .w-product-about div .w-product-head h1{
+    font-size: 7vw;
+  }
+
+  .w-page-2-2 .w-product-about .w-product-symbol img{
+    width: 150%;
+    height: 50vw;
+  }
+
+  .w-page-2-2 .w-product-about .div img{
+    width: 150%;
+    height: 50vw;
+  }
+
+  .w-page-2-2 .header{
+    display: none;
+  }
+
+  .w-page-5{
+    margin-top: 60vw;
+  }
+
+  .w-page-5 h1{
+    display: block;
+    font-size: 6vw;
+  }
+
+  .w-page-6{
+    display: flex;
+    flex-direction: column;
+    margin-top: 4vw;
+  }
+
+  .w-page-6 .tool-part1 .tool-child:hover{
+    border: dashed red;
+  }
+
+  .w-page-3 .header{
+    margin: 80px 10px;
+  }
+
+  .w-page-3 .header hr{
+    border: 1px solid black;
+  }
+
+  .w-page-3 .header .text{
+    font-size: 3vw;
+  }
+
+  .wholesale{
+    overflow-x: hidden;
+    padding: 2vw;
+  }
+}
+
+@media (max-width:850px){
+     
+  .wholesale:not(:first-child){
+    width: 100%;
+  }
+
+  .nav-part2 .links{
+    display: none;
+  }
+
+  .wpage-1 .w-tag h1{
+    font-size: 10vw;
+    line-height: 10vw;
+  }
+
+  .w-page-2 .w-product-about{
+    display: flex;
+  }
+
+  .w-page-2 .w-product-about div .w-product-head{
+    margin-top: 28vw;
+  }
+
+  .w-page-2 .w-product-about div .w-product-head h1{
+    font-size: 5vw;
+    line-height: 5vw;
+
+  }
+
+  .w-page-2 .w-product-about div .w-product-des{
+    width: 100%;
+  }
+
+  .w-page-2 .w-product-about div .w-product-des p{
+    margin-top: 4vw;
+    font-size: 4vw;
+  }
+
+  .w-page-2 .w-product-about .w-product-symbol img{
+    margin-top: 8vw;
+    width: 150%;
+    object-fit: cover;
+  }
+
+  .w-page-2 .w-product-about .div img{
+    margin-top: 8vw;
+    width: 140%;
+    object-fit: cover;
+    position: relative;
+    right: 15vw;
+  }
+
+  .wholesale .w-page-2 .header{
+    margin: 80px 10px;
+  }
+
+  .wholesale .w-page-2 .header hr{
+    border: 1px solid black;
+  }
+
+  .wholesale .w-page-2 .header .text{
+    font-size: 3vw;
+  }
+
+  .w-page-3 .w-soaps .w-soaps-h1 h1{
+    font-size: 8vw;
+    line-height: 8vw;
+  }
+
+  .w-page-3 .w-soaps div>h6{
+    font-size: 3vw;
+    margin-top: 3vw;
+  }
+
+  .w-page-3 .w-soaps div p{
+    font-size: 2.8vw;
+    margin-top: 1vw;
+  }
+
+  .w-page-3 .w-soaps .w-part .part1{
+    width: 60vw;
+    height: 10vw;
+    padding-top: 3vw;
+    margin-top: 7vw;
+  }
+
+  .w-page-3 .w-soaps .w-part .part2{
+    width: 75vw;
+    height: 15vw;
+    padding-top: 3vw;
+    margin-top: 7vw;
+  }
+
+  .w-page-3 .w-soaps .w-part .part3{
+    width: 95vw;
+    height: 20vw;
+    padding-top:5vw;
+    margin-top: 7vw;
+  }
+
+  .w-page-3 hr{
+    border: 1px solid black;
+    margin-top: 80px;
+  }
+
+  .w-page-4 .bodyPhoto{
+    flex-direction: column;
+  }
+
+  .w-page-4 .bodyPhoto>.ele{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 50%;
+    margin: 20%;
+    left: 2vw;  
+  }
+
+  .w-page-4 .bodyPhoto>.ele:last-child{
+    display: none;
+  }
+
+  .w-page-4 .bodyPhoto>.ele img{
+    position: absolute;
+  }
+
+  .w-page-2-2{
+    position: relative;
+    top: 40vw;
+  }
+
+  .w-page-2-2 .w-product-about div .w-product-head h1{
+    font-size: 7vw;
+  }
+
+  .w-page-2-2 .w-product-about .w-product-symbol img{
+    width: 150%;
+    height: 50vw;
+  }
+
+  .w-page-2-2 .w-product-about .div img{
+    width: 150%;
+    height: 50vw;
+  }
+
+  .w-page-2-2 .header{
+    display: none;
+  }
+
+  .w-page-5{
+    margin-top: 60vw;
+  }
+
+  .w-page-5 h1{
+    display: block;
+    font-size: 6vw;
+  }
+
+  .w-page-6{
+    display: flex;
+    flex-direction: column;
+    margin-top: 4vw;
+  }
+
+  .w-page-6 .tool-part1 .tool-child:hov er{
+    border: dashed red;
+  }
+
+  .w-page-3 .header{
+    margin: 80px 10px;
+  }
+
+  .w-page-3 .header hr{
+    border: 1px solid black;
+  }
+
+  .w-page-3 .header .text{
+    font-size: 3vw;
+  }
+
+  .wholesale{
+    overflow-x: hidden;
+    padding: 2vw;
+  }
+}

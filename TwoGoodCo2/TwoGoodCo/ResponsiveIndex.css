@@ -1,0 +1,104 @@
+@media (max-width: 1000px) {
+  .bodyPhoto {
+    height: auto;
+    flex-direction: column;
+    gap: 4vw;
+  }
+  .bodyPhoto .ele {
+    width: 90%;
+  }
+  .Description .Dright p,
+  .BestShampoo p,
+  .Oleft p {
+    font-size: 1.8vw;
+  }
+  .Description .Dleft h1,
+  .BestShampoo h1 {
+    width: 100%;
+    font-size: 5vw;
+  }
+}
+@media (max-width: 850px) {
+  .hero h1 {
+    font-size: 15.5vw;
+  }
+  .Description {
+    margin: 15vw 0;
+    gap: 6vw;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .Description .Dleft {
+    width: 100%;
+  }
+  .Description .Dright {
+    width: 100%;
+    text-align: center;
+  }
+  .animated-button span {
+    font-size: 2.8vw;
+  }
+  .Description .Dright p,
+  .BestShampoo p,
+  .Oleft p {
+    width: 100%;
+    font-size: 2vw;
+  }
+  .Description .Dleft h1,
+  .BestShampoo h1 {
+    font-size: 6vw;
+  }
+  .BestShampoo {
+    margin-top: 10vw;
+  }
+  .OurImpact {
+    flex-direction: column-reverse;
+  }
+  .OurImpact .Oleft {
+    margin-bottom: 5vw;
+    width: 70%;
+  }
+  .OurImpact .Oright {
+    width: 100%;
+  }
+  .Oleft p {
+    margin-bottom: 4vw;
+  }
+  .Oleft h1 {
+    font-size: 4vw;
+    margin-top: 4vw;
+  }
+}
+@media (max-width: 420px) {
+  .hero {
+    margin-bottom: -55vw;
+  }
+  .hero h1 {
+    font-size: 16.6vw;
+    line-height: 1.1;
+  }
+  .bodyPhoto {
+    gap: 8vw;
+  }
+  .Description .Dright p,
+  .BestShampoo p,
+  .Oleft p {
+    width: 100%;
+    font-size: 3.8vw;
+  }
+  .Description .Dleft h1,
+  .BestShampoo h1 {
+    font-size: 8vw;
+  }
+  .animated-button span {
+    font-size: 4.5vw;
+  }
+  .animated-button {
+    padding: 1.5vw 6vw;
+  }
+  .child{
+    height: 55vw;
+    width: 55vw;
+  }
+}

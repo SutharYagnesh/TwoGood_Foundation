@@ -1,0 +1,405 @@
+@media (max-width:850px){
+
+.nav-part2 .links{
+  display: none;
+}
+    
+.catering-sec-2 .catering-div-1 h1{
+    font-size: 6vw;
+    line-height: 5vw;
+  }
+  .catering-sec-4 .catering-div-sp{
+    width: 50% 50%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .catering-sec-4 .catering-div-sp .div{
+    display: flex;
+  }
+
+  .catering-sec-4 .catering-div-sp .catering-div-1-sp{
+    width: 100%;
+  }
+
+  .catering-sec-4 .catering-div-sp .catering-div-1-sp .catering-div-1-1-sp h1{
+    font-size: 5vw;
+    line-height: 5vw;
+  }
+
+  .catering-sec-4 .catering-div-sp .catering-div-1-sp .catering-div-1-2-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-4 .catering-div-sp .catering-div-1-sp .catering-div-1-3-sp{
+    font-size: 2vw;
+  }
+
+  .catering-sec-4 .catering-div-sp .catering-div-1-sp .catering-div-1-4-sp span{
+    font-size: 2vw;
+  }
+
+
+  .catering-sec-7 .catering-div-sp{
+    width: 50% 50%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .catering-sec-7 .catering-div-sp .div{
+    display: flex;
+  }
+
+  .catering-sec-7 .catering-div-sp .catering-div-1-sp{
+    width: 100%;
+  }
+
+  .catering-sec-7 .catering-div-sp .catering-div-1-sp .catering-div-1-1-sp h1{
+    font-size: 5vw;
+    line-height: 5vw;
+  }
+
+  .catering-sec-7 .catering-div-sp .catering-div-1-sp .catering-div-1-2-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-7 .catering-div-sp .catering-div-1-sp .catering-div-1-3-sp{
+    font-size: 2vw;
+  }
+
+  .catering-sec-7 .catering-div-sp .catering-div-1-sp .catering-div-1-4-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-div {
+    margin: 0;
+  }
+
+  .catering-div h1{
+    font-size: 7vw;
+    line-height: 7vw;
+  }
+
+  .catering-sec-10 .catering-div-sp{
+    width: 50% 50%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .catering-sec-10 .catering-div-sp .div{
+    display: flex;
+  }
+
+  .catering-sec-10 .catering-div-sp .catering-div-1-sp{
+    width: 100%;
+  }
+
+  .catering-sec-10 .catering-div-sp .catering-div-1-sp .catering-div-1-1-sp h1{
+    font-size: 5vw;
+    line-height: 5vw;
+  }
+
+  .catering-sec-10 .catering-div-sp .catering-div-1-sp .catering-div-1-2-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-10 .catering-div-sp .catering-div-1-sp .catering-div-1-3-sp{
+    font-size: 2vw;
+  }
+
+  .catering-sec-10 .catering-div-sp .catering-div-1-sp .catering-div-1-4-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-12 .catering-div-sp{
+    width: 50% 50%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .catering-sec-12 .catering-div-sp .div{
+    display: flex;
+  }
+
+  .catering-sec-12 .catering-div-sp .catering-div-1-sp{
+    width: 100%;
+  }
+
+  .catering-sec-12 .catering-div-sp .catering-div-1-sp .catering-div-1-1-sp h1{
+    font-size: 5vw;
+    line-height: 5vw;
+  }
+
+  .catering-sec-12 .catering-div-sp .catering-div-1-sp .catering-div-1-2-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-12 .catering-div-sp .catering-div-1-sp .catering-div-1-3-sp{
+    font-size: 2vw;
+  }
+
+  .catering-sec-12 .catering-div-sp .catering-div-1-sp .catering-div-1-4-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-14 .catering-div-sp{
+    width: 50% 50%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .catering-sec-14 .catering-div-sp .div{
+    display: flex;
+  }
+
+  .catering-sec-14 .catering-div-sp .catering-div-1-sp{
+    width: 100%;
+  }
+
+  .catering-sec-14 .catering-div-sp .catering-div-1-sp .catering-div-1-1-sp h1{
+    font-size: 5vw;
+    line-height: 5vw;
+  }
+
+  .catering-sec-14 .catering-div-sp .catering-div-1-sp .catering-div-1-2-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-14 .catering-div-sp .catering-div-1-sp .catering-div-1-3-sp{
+    font-size: 2vw;
+  }
+
+  .catering-sec-14 .catering-div-sp .catering-div-1-sp .catering-div-1-4-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-16{
+    height: 50vw;
+  }
+
+  .catering-sec-16 div:first-child{
+    font-size: 4vw;
+  }
+
+  .catering-sec-16 div:nth-child(2){
+    width: 70%;
+    height: 6vw;
+    font-size: 3vw;
+    border-radius: 4vw;
+  }
+
+  @keyframes colorChange {
+      0% { color: red; }
+      25% { color: yellow; }
+      50% { color: pink; }
+      75% { color: cyan; }
+      100% { color: red; }
+  }
+
+  .catering-sec-16 div:nth-child(2):hover {
+      animation: colorChange 2s infinite alternate;
+  }
+}
+
+@media (max-width:499px){
+
+.nav-part2 .links{
+    display: none;
+  }
+    
+.catering-sec-2 .catering-div-1 h1{
+    font-size: 6vw;
+    line-height: 5vw;
+  }
+  .catering-sec-4 .catering-div-sp{
+    width: 50% 50%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .catering-sec-4 .catering-div-sp .div{
+    display: flex;
+  }
+
+  .catering-sec-4 .catering-div-sp .catering-div-1-sp{
+    width: 100%;
+  }
+
+  .catering-sec-4 .catering-div-sp .catering-div-1-sp .catering-div-1-1-sp h1{
+    font-size: 5vw;
+    line-height: 5vw;
+  }
+
+  .catering-sec-4 .catering-div-sp .catering-div-1-sp .catering-div-1-2-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-4 .catering-div-sp .catering-div-1-sp .catering-div-1-3-sp{
+    font-size: 2vw;
+  }
+
+  .catering-sec-4 .catering-div-sp .catering-div-1-sp .catering-div-1-4-sp span{
+    font-size: 2vw;
+  }
+
+
+  .catering-sec-7 .catering-div-sp{
+    width: 50% 50%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .catering-sec-7 .catering-div-sp .div{
+    display: flex;
+  }
+
+  .catering-sec-7 .catering-div-sp .catering-div-1-sp{
+    width: 100%;
+  }
+
+  .catering-sec-7 .catering-div-sp .catering-div-1-sp .catering-div-1-1-sp h1{
+    font-size: 5vw;
+    line-height: 5vw;
+  }
+
+  .catering-sec-7 .catering-div-sp .catering-div-1-sp .catering-div-1-2-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-7 .catering-div-sp .catering-div-1-sp .catering-div-1-3-sp{
+    font-size: 2vw;
+  }
+
+  .catering-sec-7 .catering-div-sp .catering-div-1-sp .catering-div-1-4-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-div {
+    margin: 0;
+  }
+
+  .catering-div h1{
+    font-size: 7vw;
+    line-height: 7vw;
+  }
+
+  .catering-sec-10 .catering-div-sp{
+    width: 50% 50%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .catering-sec-10 .catering-div-sp .div{
+    display: flex;
+  }
+
+  .catering-sec-10 .catering-div-sp .catering-div-1-sp{
+    width: 100%;
+  }
+
+  .catering-sec-10 .catering-div-sp .catering-div-1-sp .catering-div-1-1-sp h1{
+    font-size: 5vw;
+    line-height: 5vw;
+  }
+
+  .catering-sec-10 .catering-div-sp .catering-div-1-sp .catering-div-1-2-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-10 .catering-div-sp .catering-div-1-sp .catering-div-1-3-sp{
+    font-size: 2vw;
+  }
+
+  .catering-sec-10 .catering-div-sp .catering-div-1-sp .catering-div-1-4-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-12 .catering-div-sp{
+    width: 50% 50%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .catering-sec-12 .catering-div-sp .div{
+    display: flex;
+  }
+
+  .catering-sec-12 .catering-div-sp .catering-div-1-sp{
+    width: 100%;
+  }
+
+  .catering-sec-12 .catering-div-sp .catering-div-1-sp .catering-div-1-1-sp h1{
+    font-size: 5vw;
+    line-height: 5vw;
+  }
+
+  .catering-sec-12 .catering-div-sp .catering-div-1-sp .catering-div-1-2-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-12 .catering-div-sp .catering-div-1-sp .catering-div-1-3-sp{
+    font-size: 2vw;
+  }
+
+  .catering-sec-12 .catering-div-sp .catering-div-1-sp .catering-div-1-4-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-14 .catering-div-sp{
+    width: 50% 50%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .catering-sec-14 .catering-div-sp .div{
+    display: flex;
+  }
+
+  .catering-sec-14 .catering-div-sp .catering-div-1-sp{
+    width: 100%;
+  }
+
+  .catering-sec-14 .catering-div-sp .catering-div-1-sp .catering-div-1-1-sp h1{
+    font-size: 5vw;
+    line-height: 5vw;
+  }
+
+  .catering-sec-14 .catering-div-sp .catering-div-1-sp .catering-div-1-2-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-14 .catering-div-sp .catering-div-1-sp .catering-div-1-3-sp{
+    font-size: 2vw;
+  }
+
+  .catering-sec-14 .catering-div-sp .catering-div-1-sp .catering-div-1-4-sp span{
+    font-size: 2vw;
+  }
+
+  .catering-sec-16{
+    height: 50vw;
+  }
+
+  .catering-sec-16 div:first-child{
+    font-size: 4vw;
+  }
+
+  .catering-sec-16 div:nth-child(2){
+    width: 70%;
+    height: 6vw;
+    font-size: 3vw;
+    border-radius: 4vw;
+  }
+
+  @keyframes colorChange {
+      0% { color: red; }
+      25% { color: yellow; }
+      50% { color: pink; }
+      75% { color: cyan; }
+      100% { color: red; }
+  }
+
+  .catering-sec-16 div:nth-child(2):hover {
+      animation: colorChange 2s infinite alternate;
+  }
+}
